@@ -1,0 +1,11 @@
+#imagenes y archivos CC
+*.png
+*.pdf
+*.docx
+*.msg
+
+#carpeta de imagenes
+/Images/*.png
+
+#carpeta de videos
+/proyecto3Delima/*.mp4
